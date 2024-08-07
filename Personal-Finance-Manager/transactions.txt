@@ -1,4 +1,0 @@
-Travel;50.0;Expense;Food
-food;100.0;Expense;Food
-salary;25000.0;Income;Salary
-Movie;200.0;Expense;Entertainment
